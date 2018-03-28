@@ -1,9 +1,9 @@
 # Richard
 
 ## Personal details
-Name: Richard Garsthagen
-Nickname: Anykey
+Name: Richard Garsthagen<br />
+Nickname: Anykey<br />
+<br />
+github user: anykeynl<br />
 
-github user: anykeynl
-m
 
