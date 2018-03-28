@@ -1,0 +1,4 @@
+Hi!
+I have some Python experience and also Django. Looking to refresh my knowledge though since it's been 2 years since I've used them.
+Bye.
+
